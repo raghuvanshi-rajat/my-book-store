@@ -1,0 +1,9 @@
+python-dotenv
+bcrypt
+mysqlclient
+Flask
+flask_jwt_extended
+flask_mysqldb
+requests
+flask_restful
+flask_swagger_ui
